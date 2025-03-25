@@ -2,9 +2,10 @@
 
 ## 1. Repositorio
 Crea un nuevo repositorio de trabajo en [avidaldo-ia24](https://github.com/organizations/avidaldo-ia24/repositories/new):
-    - `Owner` debe ser `avidaldo-ia24`.
-    - El nombre debe ser `t9-tf-playground-nombre1-apellido1`, sustituyendo `nombre1-apellido1` por tu identificador.
-    - Ese nuevo repositorio debe ser **privado**.
+
+- `Owner` debe ser `avidaldo-ia24`.
+- El nombre debe ser `t9-tf-playground-nombre1-apellido1`, sustituyendo `nombre1-apellido1` por tu identificador.
+- Ese nuevo repositorio debe ser **privado**.
 
 ## 2. Tarea
 
