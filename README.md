@@ -1,4 +1,4 @@
-# Tarea 8: Optimización de hiperparámetros
+# Tarea 9: Playground online de TensorFlow
 
 ## 1. Repositorio
 Crea un nuevo repositorio de trabajo en [avidaldo-ia24](https://github.com/organizations/avidaldo-ia24/repositories/new):
